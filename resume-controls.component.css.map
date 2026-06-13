@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/resume-controls/resume-controls.component.ts", "resume-controls.component.ts"],
+  "sourcesContent": ["\n      .resume-controls {\n        font-family: 'Inter', sans-serif;\n      }\n    ", ".resume-controls {\n  font-family: \"Inter\", sans-serif;\n}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyJmaWxlOi8vL2hvbWUvYWJ1Z2gvUHJvamVjdHMvUmVzdW1lX0J1aWxkZXIvc3JjL2FwcC9yZXN1bWUtY29udHJvbHMvcmVzdW1lLWNvbnRyb2xzLmNvbXBvbmVudC50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFDTTtFQUNFIiwic291cmNlc0NvbnRlbnQiOlsiXG4gICAgICAucmVzdW1lLWNvbnRyb2xzIHtcbiAgICAgICAgZm9udC1mYW1pbHk6ICdJbnRlcicsIHNhbnMtc2VyaWY7XG4gICAgICB9XG4gICAgIl19 */"],
+  "mappings": ";AACM,CAAA;AACE,eAAA,OAAA,EAAA;ACAR;",
+  "names": []
+}
